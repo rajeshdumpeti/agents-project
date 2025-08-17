@@ -1,0 +1,5 @@
+Tells the Rules agent how to convert raw rules into machine-readable JSON with stable section IDs:
+
+fields: id, name, constraints, allowed_values, notes (verbatim excerpt)
+
+valid JSON only; IDs like UPA-8B-3.3.4

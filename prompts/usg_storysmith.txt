@@ -1,0 +1,5 @@
+Defines the Storysmith output contract (JSON array of INVEST stories):
+
+fields: story_id, as_a, i_want, so_that, acceptance_criteria[], rules[]
+
+ACs must be crisp/testable and reference rule IDs from SRA JSON

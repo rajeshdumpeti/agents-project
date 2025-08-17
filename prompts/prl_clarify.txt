@@ -1,0 +1,11 @@
+Explains the PRL’s job and expected output shape (a “Clarification Pack”):
+
+top ambiguities (numbered)
+
+proposed assumptions
+
+a short summary (100–150 words)
+
+cite rule sections when relevant
+
+keep it concise and actionable

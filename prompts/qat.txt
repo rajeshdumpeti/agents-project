@@ -1,0 +1,3 @@
+Guides the QA/Test agent to turn ACs into minimal, deterministic test steps:
+
+simple list of steps like “Open Scoring → set break type → save → verify”
